@@ -6,8 +6,8 @@ Team SoundHound (Pavel, Gary, and yours truely)
 Unwanted sounds invade your living space.  Some of these include
 the following:
 
-* noise from vermin and operating electrical equipment within
-a building.
+* noise from vermin (e.g., mice between the walls) and operating
+electrical equipment within a building.
 
 * distruptive noise from large passing vehicles,
 
@@ -79,10 +79,10 @@ Dashboard for viewing recording of daily data...
 
 Hardware manifest
 
-Intel Edison, one off.
+* Intel Edison, one off.
 
-SEN-09198 Piezo vibration sensor (small), three off.
+* SEN-09198 Piezo vibration sensor (small), three off.
 
-Linker sound sensor A61NG, one off
+* Linker sound sensor A61NG, one off
 
 
