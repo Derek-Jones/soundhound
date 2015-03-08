@@ -1,0 +1,12 @@
+{
+  "name": "publisher",
+  "version": "0.0.1",
+  "description": "Sound Hound data publisher",
+  "main": "publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mqtt": "^0.3.8"
+  }
+}
