@@ -85,4 +85,5 @@ Hardware manifest
 
 * Linker sound sensor A61NG, one off
 
+* 3-axis mounting sensor platform (laser cut thanks to Elen).
 
